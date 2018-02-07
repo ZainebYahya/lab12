@@ -1,0 +1,7 @@
+c:\users\safa\source\repos\lab12\bin\Debug\lab12.exe.config
+c:\users\safa\source\repos\lab12\bin\Debug\lab12.exe
+c:\users\safa\source\repos\lab12\bin\Debug\lab12.pdb
+c:\users\safa\source\repos\lab12\obj\Debug\lab12.csprojResolveAssemblyReference.cache
+c:\users\safa\source\repos\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+c:\users\safa\source\repos\lab12\obj\Debug\lab12.exe
+c:\users\safa\source\repos\lab12\obj\Debug\lab12.pdb
